@@ -1,0 +1,13 @@
+{
+    "name": "ProductBrand",
+    "alias": "productbrand",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProductBrand\\Providers\\ProductBrandServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

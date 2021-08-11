@@ -1,0 +1,13 @@
+{
+    "name": "ModelMachine",
+    "alias": "modelmachine",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ModelMachine\\Providers\\ModelMachineServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

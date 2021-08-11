@@ -1,0 +1,7 @@
+{
+    "Category": true,
+    "Product": true,
+    "News": true,
+    "ProductBrand": true,
+    "ModelMachine": true
+}

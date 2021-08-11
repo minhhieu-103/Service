@@ -1,0 +1,149 @@
+@media (max-width: 1024px) {
+    footer .site-footer {
+        background-attachment: inherit;
+    }
+    .product-box .product-thumbnail {
+        height: 197px;
+    }
+}
+
+@media (max-width: 992px) {
+    #header .topbar {
+        display: none;
+    }
+    #header .menu {
+        display: none;
+    }
+    #header .top-fun {
+        display: none;
+    }
+    .nav-line-group {
+        display: block !important;
+    }
+    #header .header-main .col-md-3 .logo .logo-wrapper img {
+        max-width: 150px;
+    }
+    #header .logo a {
+        display: flex;
+        justify-content: center;
+        margin-right: 46px;
+    }
+    .c-menu--slide-left {
+        display: block !important;
+    }
+    #header .header-main .search .header_search {
+        padding: 5px 0;
+    }
+    .search1 {
+        max-width: 100%;
+        flex: auto;
+    }
+    .logorepon {
+        flex: auto;
+        max-width: 100%;
+    }
+    .the-article-tools {
+        display: none;
+    }
+    .back-hotline {
+        display: block !important;
+    }
+    .back-zalo {
+        display: block !important;
+    }
+    .content-blog-index .xxx .myblog .content-right-blog {
+        padding-left: 150px;
+    }
+    .content-blog-index .xxx .myblog .content-right-blog .content-sum {
+        display: none;
+    }
+    .content-blog-index .xxx .myblog .item_blog_big {
+        width: 140px;
+    }
+    .product-box .product-thumbnail {
+        height: 147px;
+    }
+    .desktop-width-33 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .hidden-sm {
+        display: none !important;
+    }
+    footer .site-footer {
+        background-attachment: inherit;
+    }
+}
+
+@media (max-width: 768px) {
+    .product-box {
+        margin-bottom: 15px;
+    }
+    .product-box .product-thumbnail {
+        height: 231px;
+    }
+    footer .site-footer {
+        background: black;
+    }
+    .content-blog-index {
+        margin-top: 20px;
+    }
+    .image-blog-left.img_thumb_blogs img {
+        width: 140px;
+    }
+    .content-blog-index {
+        margin-left: -35px;
+    }
+    .nav-tabs {
+        display: none;
+    }
+    ul.list-menu {
+        display: none;
+    }
+    .product-box .product-thumbnail {
+        height: 226px;
+    }
+    /* .siter-footer {
+        background: black !important;
+    } */
+    footer .list-menu {
+        color: white !important;
+    }
+    ul.tabs.tabs-title.tab-mobile.clearfix.hidden-sm.hidden-md.hidden-lg {
+        display: block !important;
+    }
+}
+
+@media (max-width:575px) {
+    ul.tabs.tabs-title.tab-mobile.clearfix.hidden-sm.hidden-md.hidden-lg {
+        display: block !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .section_tour-holiday .video-wrappers {
+        text-align: center;
+    }
+    .section_tour-holiday .btn-maincolor {
+        display: inline-block;
+    }
+    .container {
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+    .row {
+        margin-right: -7px;
+        margin-left: -7px;
+    }
+    .siter-footer .footer-inner .footer-widget h3 {
+        padding: 7px 0;
+        position: relative;
+    }
+    .product-box .product-thumbnail {
+        height: 267px;
+    }
+}
